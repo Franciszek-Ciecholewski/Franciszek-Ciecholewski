@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franciszek-Ciecholewski
 - I'm currently a student of Applied Computer Science and Artificial Intelligence at Sapienza University in Rome, Italy
 - 👀 I’m interested in: computer science, cybernetics (polish school: Mazur, Kossecki), languages
-- 🌱 I’m currently learning: python matplotlib library
+- 🌱 I’m currently learning: python matplotlib library, android app development (Java)
 - 📫 How to reach me:
     email:  fra.ciecholewski@yahoo.com
 
